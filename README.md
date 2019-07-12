@@ -20,6 +20,9 @@
 
 数据接口：https://www.juhe.cn/docs/api/id/46
 
+DEMO
+-----
+![image](https://github.com/fettersss/myapp/blob/master/%E6%88%91%E7%9A%84%E8%A7%86%E9%A2%91.gif)
 
 ## Build Setup
 
