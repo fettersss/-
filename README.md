@@ -27,6 +27,9 @@ DEMO
 ![image](https://github.com/fettersss/myapp/blob/master/%E5%88%86%E7%B1%BB.jpg)<br>
 搜索页（点击 我的 页面上的搜索进入）<br>
 ![image](https://github.com/fettersss/myapp/blob/master/%E6%90%9C%E7%B4%A2.jpg)<br>
+主页<br>
+![image](https://github.com/fettersss/myapp/blob/master/%E4%B8%BB%E9%A1%B5.jpg)<br>
+
 
 动图有一点糊<br>
 ![image](https://github.com/fettersss/myapp/blob/master/%E6%88%91%E7%9A%84%E8%A7%86%E9%A2%91%7E2.gif)
