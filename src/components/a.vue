@@ -27,7 +27,7 @@ data(){
 
 },
 created(){
-	  this.$http.jsonp('http://apis.juhe.cn/cook/index?key=d42aa6cda9813880da2716390a811119&cid=1',
+	  this.$http.jsonp('http://apis.juhe.cn/cook/index?key=c588e52f1a84b2a0bf1a0136c79c05ee&cid=1',
 	  //axios.get('http://apis.juhe.cn/cook/query?key=1ea4ce7c2fdfd61530f1ad2a8eeab606&menu=%E8%A5%BF%E7%BA%A2%E6%9F%BF&rn=10&pn=3',
 	  {
 		  emulateJSON:true}
